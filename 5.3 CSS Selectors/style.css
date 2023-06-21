@@ -13,7 +13,7 @@ p{
   font-size: 20px;
 }
 
-[id='id-selector-demo']{
+#id-selector-demo{
   color: green;
 }
 
